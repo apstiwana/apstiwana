@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apstiwana
 - 👀 I’m interested in MicroSaaS
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on MicroSaas
+- 🌱 I’m currently learning how to build apps with AI
+- 💞️ I’m looking to collaborate on MicroSaaS
 - 📫 How to reach me staler_oblique_1j@icloud.com
 
 <!---
